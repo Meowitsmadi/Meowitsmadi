@@ -8,8 +8,6 @@
   <li>Computer Science & Mathematics Graduate from San Jose State University. Based in the Bay Area, California</li>
   <li>Fields of Interest: Backend Development, APIs, Databases, Game Development</li>
 </ul>
-<hr>
-
 
 <h2> ⚙️ Languages and Tools I've Used: </h2>
 <p align="left">
